@@ -14,7 +14,7 @@
 </div>
 -->
 <div id="header" align="center">
-   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100"/>
+   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" height="200"/>
 <!--     <img src="https://media.giphy.com/media/2QpnSwLwr9fkDtiN4m/giphy.gif" width="100"/> -->
 </div>
 
