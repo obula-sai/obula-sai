@@ -15,23 +15,17 @@
 -->
 <div id="header" align="center">
    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" height="150"/>
-<!--     <img src="https://media.giphy.com/media/2QpnSwLwr9fkDtiN4m/giphy.gif" width="100"/> -->
 </div>
 
 
 
-
-<p align="center">
-  <a href="https://github.com/obula-sai/"><img src="https://readme-typing-svg.herokuapp.com/?lines=AI%20Cloud %20Enthusiast;Python%20Developer;Tech%2B%20Learner%20of%20 problem solver;Experience in %20Data Analysis %20Cloud%20Computing&center=true&width=380&height=45"></a>
-</p>
-
  
-<a href="https://komarev.com/ghpvc/?username=gokulakishorereddypuli">
-  <img align="right" src="https://komarev.com/ghpvc/?username=gokulakishorereddypuli&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+<a href="https://komarev.com/ghpvc/?username=obula-sai">
+  <img align="right" src="https://komarev.com/ghpvc/?username=obula-sai&label=Visitors&color=black&style=flat" alt="Profile visitor" />
 </a>
 
 <!-- viewers-->
-<img src="https://komarev.com/ghpvc/?username=gokulakishorereddypuli&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=obula-sai&style=flat-square&color=black" alt=""/>
 
 <!-- walk time
 [![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc) -->
@@ -54,23 +48,14 @@
 </p>
 
 <p align="center">
-<!--<p align="center">
- <a href="https://alsiam.com" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="alsiam" />
- </a>
- <a href="https://linkedin.com/in/saifalsiam" target="_blank">
- </a>-->
+
  <a href="obulasai1@gmail.com" target="_blank">
- <a href="https://dev.to/puligokulakishorereddy" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="alsiam" />
  </a>
  <a href="https://www.linkedin.com/in/obula-sai-m-27a731245/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
  </a>
-<!--  <a href="https://twitter.com/alsiam_dev" target="_blank">
- <a href="https://twitter.com/p_gokulakishore" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
- </a> -->
+
  <a href="https://instagram.com/alsiam.dev" target="_blank">
  <a href="https://www.instagram.com/myself__sai_/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" />
@@ -87,9 +72,9 @@
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
- ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
- ❤️ &emsp; Love to writing code and learning new Technologies<br/><br/>
- 📧 &emsp; Reach me anytime: obulasai1@gmail.com<br/><br/>
+ ✌️ &emsp; Passionate Explorer of AI & Cloud Tech <br/><br/>
+ ❤️ &emsp; Finding Joy in Tech Challenges <br/><br/>
+ 📧 &emsp; Reach me anytime: obulasai1@gmail.com/+91 9398277045<br/><br/>
 </p>
 <br/>
 <br/>
