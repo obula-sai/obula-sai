@@ -22,7 +22,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/obula-sai/"><img src="https://readme-typing-svg.herokuapp.com/?lines=AI%20&Cloud %20Enthusiast;Python%20Developer;Tech%2B%20Learner%20of%20& problem solver;Experience in %20Data Analysis &%20Cloud%20Computing&center=true&width=380&height=45"></a>
+  <a href="https://github.com/obula-sai/"><img src="https://readme-typing-svg.herokuapp.com/?lines=AI%20Cloud %20Enthusiast;Python%20Developer;Tech%2B%20Learner%20of%20 problem solver;Experience in %20Data Analysis %20Cloud%20Computing&center=true&width=380&height=45"></a>
 </p>
 
  
