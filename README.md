@@ -14,7 +14,7 @@
 </div>
 -->
 <div id="header" align="center">
-   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" height="200"/>
+   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" height="150"/>
 <!--     <img src="https://media.giphy.com/media/2QpnSwLwr9fkDtiN4m/giphy.gif" width="100"/> -->
 </div>
 
@@ -22,7 +22,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/gokulakishorereddypuli"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Java%20Developer;2.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/obula-sai/"><img src="https://readme-typing-svg.herokuapp.com/?lines=AI%20&Cloud %20Enthusiast;Python%20Developer;Tech%2B%20Learner%20of%20& problem solver;Experience in %20Data Analysis &%20Cloud%20Computing&center=true&width=380&height=45"></a>
 </p>
 
  
