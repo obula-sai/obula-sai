@@ -21,11 +21,11 @@
 
  
 <a href="https://komarev.com/ghpvc/?username=obula-sai">
-  <img align="right" src="https://komarev.com/ghpvc/?username=obula-sai&label=Visitors&color=black&style=flat" alt="Profile visitor" />
+  <img align="right" src="https://komarev.com/ghpvc/?username=obula-sai&label=Visitors&color=red&style=flat" alt="Profile visitor" />
 </a>
 
 <!-- viewers-->
-<img src="https://komarev.com/ghpvc/?username=obula-sai&style=flat-square&color=black" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=obula-sai&style=flat-square&color=red" alt=""/>
 
 <!-- walk time
 [![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc) -->
